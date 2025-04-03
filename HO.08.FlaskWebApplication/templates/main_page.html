@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+.button {
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body style="background-color:powderblue;">
+
+<h1>Welcome to www.3aayaam.in</h1>
+<p>Enter any one details below:</p>
+<form action="/getcustaccts" method="get">
+  <label for="cust_id">  Customer ID  :   </label>
+  <input type="text" id="cust_id" name="cust_id"><br><br>
+  <button onclick="cust_id=cust_id" class="button">Get Customer Details</button> <br><br><br><br>
+</form>
+<form action="/getacctdetails" method="get">
+  <label for="acct_id">  Account ID   :   </label>
+  <input type="text" id="acct_id" name="acct_id"><br><br>
+  <button onclick="acct_id=acct_id" class="button">Get Account Details</button> <br><br><br><br>
+</form>
+</body>
+</html>

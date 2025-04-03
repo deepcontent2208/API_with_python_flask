@@ -1,0 +1,4 @@
+finance_customer_data_5M.csv filter=lfs diff=lfs merge=lfs -text
+retail_product_data.csv filter=lfs diff=lfs merge=lfs -text
+finance_customer_data.csv filter=lfs diff=lfs merge=lfs -text
+HO.08.FlaskWebApplication/bank_account_data.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:lightyellow;">
+
+<h1>Welcome to www.3aayaam.in</h1>
+<p> Account Details for Customer ID {{cust_id}}</p>
+{% for item in array_data %}
+    <li>Account ID: {{item[1]}}, Account Type: {{item[2]}}, Account Balance: {{item[3]}}</li>
+{% endfor %}
+</body>
+</html>
