@@ -90,7 +90,7 @@ def create_assembly_line():
 
             cursor = conn.cursor()
             production_log_entry_sql = 'INSERT INTO production_log VALUES (%s, %s, %s, %s, %s, %s, %s, %s)'
-            cursor.execute(production_log_entry_sql, (log_id, product_id, start_ws_id, worker_id, machine_id, start_time, end_time, status))
+            cursor.execute(production_log_entry_sql, (log_id, product_id, start_ws_id, worker_id, mc_id, start_time, end_time, status))
             conn.commit()
             cursor.close()
         else:

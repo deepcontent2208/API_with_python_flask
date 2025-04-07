@@ -1,7 +1,6 @@
 from flask import Flask, url_for, request
 import pymysql, requests, json
 
-from data_gen_flask_api import assigned_ws_id
 
 app = Flask(__name__)
 

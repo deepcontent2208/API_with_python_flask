@@ -24,9 +24,6 @@ def update_worker():
     worker_id = cursor.fetchone()
 
     if worker_id:
-        output_data['worker_id'] = "ERROR"
-        cursor.close()
-    else:
         cursor.close()
         worker_id = cursor.fetchone()[0]
         output_data['worker_id'] = worker_id
@@ -35,6 +32,9 @@ def update_worker():
         cursor.execute(update_worker_sql, worker_id)
         cursor.close()
         conn.commit()
+    else:
+        output_data['worker_id'] = "ERROR"
+        cursor.close()
 
     conn.commit()
     return output_data
