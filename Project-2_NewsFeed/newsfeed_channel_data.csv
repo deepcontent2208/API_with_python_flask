@@ -1,0 +1,500 @@
+channel_id,channel_name,channel_reader_count
+CHAN1,Duke Energy,743437
+CHAN2,CKE Restaurants,778592
+CHAN3,Simply Appraisals,167773
+CHAN4,Goodyear Tire and Rubber Company,448820
+CHAN5,Ideal Industries,513055
+CHAN6,CoolTouch Monitors,432247
+CHAN7,Duke Energy,368318
+CHAN8,DaVita,368109
+CHAN9,J. P. Morgan Chase and Co.,158547
+CHAN10,Universal Studios,322342
+CHAN11,Target Source,756335
+CHAN12,Target Source,650938
+CHAN13,Myspace,676005
+CHAN14,R. R. Donnelley & Sons,236350
+CHAN15,VitaGrey,662299
+CHAN16,United Parcel Service,666228
+CHAN17,Transocean,401256
+CHAN18,Honest Air Group,322204
+CHAN19,Magik Lamp,769479
+CHAN20,Medimix International,477741
+CHAN21,Ideal Industries,471678
+CHAN22,Omni Architectural Designs,323936
+CHAN23,Ace Hardware,188268
+CHAN24,Bellwether Technology Corporation,301256
+CHAN25,Midway Games,487061
+CHAN26,Rich and Happy,380181
+CHAN27,Dresser Inc.,369455
+CHAN28,AOL,433231
+CHAN29,Hunt Petroleum,535198
+CHAN30,Personal & Corporate Design,606793
+CHAN31,Star Interior Design,558509
+CHAN32,Jarden,715799
+CHAN33,Bushmaster Firearms International,677149
+CHAN34,Intelacard,626993
+CHAN35,Manu Connection,101114
+CHAN36,Sky High Financial Advice,190296
+CHAN37,Plan Smart,733531
+CHAN38,Gillette,416826
+CHAN39,Asiatic Solutions,758211
+CHAN40,Southern California Edison,216685
+CHAN41,Allegheny Technologies,655090
+CHAN42,Open Interface,181001
+CHAN43,Emerson Electric Company,149105
+CHAN44,Devon Energy,296768
+CHAN45,Albertsons LLC,538777
+CHAN46,Allergan,257574
+CHAN47,Complete Tech,301627
+CHAN48,Lexmark,365104
+CHAN49,Crazy Eddie,617795
+CHAN50,Birdwell,269557
+CHAN51,Ashland Inc.,175541
+CHAN52,Strategy Consulting,696962
+CHAN53,Omni Tech,172912
+CHAN54,Marathon Oil,637497
+CHAN55,CBS Corporation,586826
+CHAN56,Advanced Micro Devices,577895
+CHAN57,Strong Life,224063
+CHAN58,Avery Dennison,567984
+CHAN59,Danaher,250602
+CHAN60,Triumph Group,648776
+CHAN61,"Dell, Inc.",485972
+CHAN62,Netobill,459408
+CHAN63,Safeco Corporation,312484
+CHAN64,"Blyth, Inc.",799542
+CHAN65,Netcom Business Services,499671
+CHAN66,Fairchild Semiconductor,294743
+CHAN67,Marriott Corporation,577453
+CHAN68,ION Media Networks,780287
+CHAN69,Garden Guru,556207
+CHAN70,Multi Tech Development,760220
+CHAN71,Red River Broadcasting,635548
+CHAN72,Opti-Tek,477858
+CHAN73,Affinity Investment Group,581320
+CHAN74,Verizon Wireless,448520
+CHAN75,Landskip Yard Service,688635
+CHAN76,Wealthy Ideas,736430
+CHAN77,Union Oil Company of California,130557
+CHAN78,Apache Software Foundation,183970
+CHAN79,Simple Solutions,312294
+CHAN80,International Paper,374248
+CHAN81,Red River Broadcasting,655915
+CHAN82,AVST,703840
+CHAN83,EnviroSource Design,672023
+CHAN84,Simply Appraisals,414307
+CHAN85,Star Merchant Services,741277
+CHAN86,BJ Services Company,374104
+CHAN87,Good Times,699700
+CHAN88,General Electric,240043
+CHAN89,Avnet,227088
+CHAN90,Ace Hardware,172552
+CHAN91,Stratabiz,555337
+CHAN92,XPAC,556204
+CHAN93,Tempur-Pedic,379288
+CHAN94,Eastman Kodak,579801
+CHAN95,Magna Solution,383876
+CHAN96,Fisher Electronics,297250
+CHAN97,Six Flags,187053
+CHAN98,Del Monte Foods,356402
+CHAN99,Six Flags,107307
+CHAN100,Verizon Wireless,599965
+CHAN101,Body Fate,240952
+CHAN102,TransDigm Group,768698
+CHAN103,Strategy Consulting,436850
+CHAN104,EnviroSource Design,613477
+CHAN105,Netcordia,564242
+CHAN106,Spherion,151499
+CHAN107,JN-International Medical Corporation,561287
+CHAN108,Multicerv,374426
+CHAN109,Monlinks,145368
+CHAN110,Custom Lawn Service,202213
+CHAN111,Magnavox,103110
+CHAN112,Whirlpool Corporation,709462
+CHAN113,Polaris Industries,380963
+CHAN114,Benesome,500371
+CHAN115,Northwest Airlines,686098
+CHAN116,Back To Basics Chiropractic Clinic,431949
+CHAN117,ManPower,107147
+CHAN118,L&L Hawaiian Barbecue,380074
+CHAN119,Houlihan's,652679
+CHAN120,Mission You,291776
+CHAN121,Albertsons LLC,198813
+CHAN122,Custom Lawn Service,115181
+CHAN123,Alliant Energy,699284
+CHAN124,S3 Graphics,555676
+CHAN125,ABX Air,406126
+CHAN126,Gore-Tex,138468
+CHAN127,The Walt Disney Company,375585
+CHAN128,Monsanto Company,758621
+CHAN129,Planetbiz,269668
+CHAN130,Pfizer,613990
+CHAN131,Terra Nova Garden Services,242848
+CHAN132,Tesoro,749824
+CHAN133,Procter & Gamble,429594
+CHAN134,Broadcom,763398
+CHAN135,BorgWarner,317685
+CHAN136,Exelon Corporation,139290
+CHAN137,Liz Claiborne,418403
+CHAN138,Future Plan,189203
+CHAN139,Vari-Tec,526953
+CHAN140,Simple Solutions,219429
+CHAN141,"Sun Microsystems, Inc.",365829
+CHAN142,Facebook,525742
+CHAN143,ABX Air,299603
+CHAN144,Motorola,733356
+CHAN145,Total Sources,467385
+CHAN146,Gamma Gas,404310
+CHAN147,Buena Vista Garden Maintenance,394189
+CHAN148,Dream Home Real Estate Service,312669
+CHAN149,Rite Solution,214425
+CHAN150,Northrop Grumman,230566
+CHAN151,Danaher,137629
+CHAN152,The White Rabbit,462678
+CHAN153,Anadarko Petroleum Corporation,455646
+CHAN154,CNET,578565
+CHAN155,Take-Two Interactive,486582
+CHAN156,Duke Energy,417422
+CHAN157,Magna Gases,789573
+CHAN158,Pro Star Garden Management,539502
+CHAN159,Destiny Realty Solutions,193797
+CHAN160,Monit,396482
+CHAN161,Salem Communications,199642
+CHAN162,Subway,797805
+CHAN163,Ground Round,384799
+CHAN164,Laserfiche,481676
+CHAN165,Orion,239414
+CHAN166,Subway,479996
+CHAN167,Firestone Tire and Rubber Company,304445
+CHAN168,Benchmark Electronics,572884
+CHAN169,DTE Energy,574445
+CHAN170,Eli Lilly and Company,775660
+CHAN171,Global Insight,389409
+CHAN172,Eastman Kodak,724923
+CHAN173,Edge Garden Services,670476
+CHAN174,Vari-Tec,455136
+CHAN175,Prestiga-Biz,755560
+CHAN176,Verizon Wireless,388377
+CHAN177,KPMG,118260
+CHAN178,Prahject Planner,243240
+CHAN179,Barnes & Noble,635004
+CHAN180,MagnaSolution,527672
+CHAN181,Bealls,151973
+CHAN182,Target Corporation,620788
+CHAN183,Wahl Clipper,234803
+CHAN184,SanDisk,665843
+CHAN185,Dover Corporation,420724
+CHAN186,"Sterling Ledet & Associates, Inc.",691216
+CHAN187,Adaptec,415319
+CHAN188,Caterpillar Inc.,286477
+CHAN189,Friendly Interior Design,203947
+CHAN190,GHD Inc.,423121
+CHAN191,Paramount Pictures,413980
+CHAN192,First Rate Choice,541638
+CHAN193,Prahject Planner,521450
+CHAN194,US Airways,661975
+CHAN195,Komerci,103864
+CHAN196,Merrymaking,514119
+CHAN197,Realty Zone,470468
+CHAN198,Principal Financial Group,224062
+CHAN199,Pfizer,213617
+CHAN200,Numark,670665
+CHAN201,Dream Home Improvements,130613
+CHAN202,Electronic Arts,587387
+CHAN203,Snap-on Tools,140068
+CHAN204,Ariba,522122
+CHAN205,Payless ShoeSource,503914
+CHAN206,Plochman's,438007
+CHAN207,Giant Food,634793
+CHAN208,AMC Entertainment,491055
+CHAN209,MagnaSolution,190739
+CHAN210,Crazy Tiger,418659
+CHAN211,Berry Plastics,655144
+CHAN212,Dun Rite Lawn Care,134696
+CHAN213,Houchens Industries,224061
+CHAN214,AMR Corporation,624390
+CHAN215,First Rate Choice,392700
+CHAN216,Black & Decker,468630
+CHAN217,Magnavox,183782
+CHAN218,Multi Tech Development,505377
+CHAN219,Johnson Controls,269470
+CHAN220,Pizza Hut,646005
+CHAN221,Monk House Maker,362494
+CHAN222,Desert Garden Help,396467
+CHAN223,Enterprise GP Holdings,167036
+CHAN224,Boston Acoustics,216058
+CHAN225,Autodesk,657049
+CHAN226,Amazon.com,352664
+CHAN227,Netcordia,560752
+CHAN228,Anchor Bay Entertainment,528184
+CHAN229,AMETEK,645123
+CHAN230,Klipsch Audio Technologies,215733
+CHAN231,Monk House Sales,374319
+CHAN232,GTECH,606410
+CHAN233,World of Fun,245152
+CHAN234,Pier 1 Imports,694511
+CHAN235,Jarden,713614
+CHAN236,FreeWave Technologies,779473
+CHAN237,Arbitron,204871
+CHAN238,Grade A Investment,619269
+CHAN239,Hawaiian Airlines,527520
+CHAN240,Gamma Realty,534519
+CHAN241,"Aaron's, Inc.",246766
+CHAN242,Team Designers and Associates,465743
+CHAN243,Gibson Guitar Corporation,551550
+CHAN244,PC Power and Cooling,632881
+CHAN245,Broadcom,287501
+CHAN246,Federal Home Loan Mortgage Corporation,202515
+CHAN247,Comodo,740429
+CHAN248,Magik Grey,619468
+CHAN249,Wendy's/Arby's Group,533385
+CHAN250,Dean Foods,270017
+CHAN251,Broadcom,270500
+CHAN252,Indiewealth,150491
+CHAN253,Magna Gases,361371
+CHAN254,Expeditors International,764263
+CHAN255,Calista Corporation,201582
+CHAN256,CNA,367206
+CHAN257,O'Reilly,144964
+CHAN258,World of Fun,628171
+CHAN259,Textron Inc.,357316
+CHAN260,Dreamscape Garden Care,366231
+CHAN261,Manu Connection,151857
+CHAN262,Memorec,654407
+CHAN263,Rockwell Collins,105194
+CHAN264,Auto-Owners Insurance,319972
+CHAN265,W. R. Berkley,787200
+CHAN266,AirTran Holdings,488412
+CHAN267,Brinker International,388067
+CHAN268,Practi-Plan Mapping,393220
+CHAN269,Omnicare,773056
+CHAN270,YASH Technologies,569253
+CHAN271,JL Audio,299720
+CHAN272,Vermeer Industries,176755
+CHAN273,Cut Rite,454305
+CHAN274,Marsh & McLennan,756681
+CHAN275,Asbury Automotive Group,637934
+CHAN276,Electric Boat,309351
+CHAN277,Colgate-Palmolive,269606
+CHAN278,Bellwether Technology Corporation,216487
+CHAN279,Verizon,259017
+CHAN280,XPAC,613295
+CHAN281,Profitpros,705117
+CHAN282,Boston Acoustics,182950
+CHAN283,Omnicare,782999
+CHAN284,Verizon,734953
+CHAN285,The Happy Bear,543655
+CHAN286,BJ's Wholesale Club,512020
+CHAN287,American Greetings,270962
+CHAN288,Monit,791306
+CHAN289,Pantone,248859
+CHAN290,NetDNA,338142
+CHAN291,"Olan Mills, Inc.",734379
+CHAN292,Lawn N' Order Garden Care,218826
+CHAN293,Intuit,778469
+CHAN294,Comcast,147873
+CHAN295,United Services Automobile Association,340283
+CHAN296,"Cisco Systems, Inc.",742167
+CHAN297,Magna Architectural Design,455008
+CHAN298,YRC Worldwide Inc.,299764
+CHAN299,Valero Energy Corporation,441695
+CHAN300,Marsh & McLennan,374412
+CHAN301,Tupperware Brands Corporation,198879
+CHAN302,Rockford Fosgate,798169
+CHAN303,Avery Dennison,315261
+CHAN304,Monk Home Improvements,254219
+CHAN305,Renys,396765
+CHAN306,Discover Financial Services,487952
+CHAN307,New Era Tickets,201432
+CHAN308,Gold Leaf Garden Management,339711
+CHAN309,Master Builder Design Services,414774
+CHAN310,Fox Film Corporation,794278
+CHAN311,Allstate,558746
+CHAN312,Oreck Corporation,291973
+CHAN313,Silicon Image,577088
+CHAN314,Intuit,182695
+CHAN315,Agilent Technologies,751559
+CHAN316,Dow Chemical Company,388925
+CHAN317,Tanadgusix Corporation,525084
+CHAN318,Service Corporation International,322146
+CHAN319,Creative Wealth Management,213947
+CHAN320,Total Quality,499049
+CHAN321,Regis Corporation,422861
+CHAN322,AnaSpec,274152
+CHAN323,Life Plan Counselling,630696
+CHAN324,Storage Technology Corporation,116157
+CHAN325,Papa John's Pizza,511584
+CHAN326,Macroserve,659462
+CHAN327,Mikrotechnic,584859
+CHAN328,Exact Solutions,600995
+CHAN329,Vantec,384763
+CHAN330,Hastings Entertainment,181386
+CHAN331,Boeing,562607
+CHAN332,EMC Corporation,625870
+CHAN333,Symantec,375895
+CHAN334,Brookdale Senior Living,617924
+CHAN335,Journal Communications,781357
+CHAN336,Desert Garden Help,582084
+CHAN337,The Vanguard Group,379382
+CHAN338,Monmax,234557
+CHAN339,Jackhammer Technologies,360106
+CHAN340,Miro Technologies,224177
+CHAN341,Avant Garde Appraisal,104033
+CHAN342,VitaGrey,699010
+CHAN343,"Dell, Inc.",419820
+CHAN344,Bio-Rad Laboratories,753519
+CHAN345,Alladin's Lamp,198267
+CHAN346,Beckman Coulter,745897
+CHAN347,The Polka Dot Bear Tavern,229528
+CHAN348,U.S. Steel,223155
+CHAN349,U.S. Steel,718815
+CHAN350,Nutri G,524533
+CHAN351,ConocoPhillips,295325
+CHAN352,Wealth Zone Group,356860
+CHAN353,Discover Financial Services,131979
+CHAN354,System Star Solutions,652988
+CHAN355,Express Merchant Service,113228
+CHAN356,Quest Software,797565
+CHAN357,Science Applications International Corporation,652190
+CHAN358,New Balance,627457
+CHAN359,Kenexa Corporation,318057
+CHAN360,Advanced Micro Devices,703111
+CHAN361,Pro Star,128584
+CHAN362,Supervalu,714141
+CHAN363,Libera,736978
+CHAN364,West Liberty Foods,540037
+CHAN365,Anixter International,357427
+CHAN366,The Walt Disney Company,248595
+CHAN367,Infor,783181
+CHAN368,Avant Garde Interior Designs,333545
+CHAN369,Applied Materials,361313
+CHAN370,Abbott Laboratories,122301
+CHAN371,Exact Realty,321208
+CHAN372,Manu Connection,361672
+CHAN373,EMC Corporation,251807
+CHAN374,Armstrong World Industries,497626
+CHAN375,Paxton Media Group,314634
+CHAN376,Mauna Loa Macadamia Nut Corp.,588300
+CHAN377,Profitpros,654375
+CHAN378,Brookdale Senior Living,339873
+CHAN379,PC Power and Cooling,352873
+CHAN380,Capital One,234720
+CHAN381,Babcock and Wilcox,271126
+CHAN382,Independent Investors,690867
+CHAN383,Barnes & Noble,236620
+CHAN384,Ocean Spray,591227
+CHAN385,Fresh&Easy Neighbourhood Market,390227
+CHAN386,American Home Mortgage,526465
+CHAN387,New World Realty,405501
+CHAN388,America Online,767604
+CHAN389,Medimix International,217830
+CHAN390,Mattel,748482
+CHAN391,Boeing,293623
+CHAN392,Pilgrim's Pride,263622
+CHAN393,National Railway Equipment Company,545902
+CHAN394,Good Times,166638
+CHAN395,Gas Depot,403907
+CHAN396,Las Vegas Yard Management,158078
+CHAN397,MagnaSolution,265917
+CHAN398,Minnesota IMPLAN Group,158505
+CHAN399,Accuquote,357799
+CHAN400,Kohler Company,470822
+CHAN401,Bemis Manufacturing Company,749295
+CHAN402,Grey Fade,337781
+CHAN403,Limited Brands,395944
+CHAN404,Monit,447065
+CHAN405,Allstate,586608
+CHAN406,AutoZone,499718
+CHAN407,Incluesiv,225200
+CHAN408,Zig Zag Children Clothes,662459
+CHAN409,Laserfiche,682379
+CHAN410,Mars Incorporated,462978
+CHAN411,Anixter International,731300
+CHAN412,StopGrey,128641
+CHAN413,AnaSpec,220584
+CHAN414,Spanx,736640
+CHAN415,Integra Investment Plan,606718
+CHAN416,Bellwether Technology Corporation,615877
+CHAN417,Exact Solutions,493392
+CHAN418,Back To Basics Chiropractic Clinic,397440
+CHAN419,Nvidia,518493
+CHAN420,The Walt Disney Company,701402
+CHAN421,Ejecta,765510
+CHAN422,Avant Garde Interior Designs,494216
+CHAN423,Bellwether Technology Corporation,639071
+CHAN424,Subway,160305
+CHAN425,Papa John's Pizza,762646
+CHAN426,Tesoro,315361
+CHAN427,MCI Inc.,180680
+CHAN428,Avnet,696857
+CHAN429,El Paso Corp.,249121
+CHAN430,World Financial Group,201149
+CHAN431,Nortax,320100
+CHAN432,State Street Corporation,360459
+CHAN433,S3 Graphics,726195
+CHAN434,American International Group,385370
+CHAN435,Unisys,749474
+CHAN436,Dereon,727304
+CHAN437,Corsair Memory,744042
+CHAN438,AK Steel Holding,780094
+CHAN439,Star Bright Investment Group,532647
+CHAN440,Georgia Pacific,502837
+CHAN441,Oracle Corporation,792766
+CHAN442,Total Sources,551381
+CHAN443,Oreck Corporation,451116
+CHAN444,BearingPoint,276804
+CHAN445,Maxaprofit,202274
+CHAN446,Monk Home Funding Services,506288
+CHAN447,Subway,152851
+CHAN448,Vari-Tec,409259
+CHAN449,Continental Airlines,268395
+CHAN450,Mutual of Omaha,705483
+CHAN451,Asian Solutions,188410
+CHAN452,Maxaprofit,734302
+CHAN453,Megatronic Mux,182444
+CHAN454,Protean,338174
+CHAN455,Oracle Corporation,153465
+CHAN456,Midway Games,110412
+CHAN457,Advance Auto Parts,744967
+CHAN458,Dollar General,606691
+CHAN459,Digi-Key,132731
+CHAN460,Progressive Corporation,713464
+CHAN461,Powerbod,328796
+CHAN462,Butler America,714034
+CHAN463,Monk House Sales,507210
+CHAN464,Southern California Edison,519706
+CHAN465,Network Air,595981
+CHAN466,Ernod,184814
+CHAN467,New World Realty,425187
+CHAN468,Zig Zag Children Clothes,710143
+CHAN469,Nordstrom,228280
+CHAN470,Magna Gases,725293
+CHAN471,"Olan Mills, Inc.",707572
+CHAN472,General Dynamics,431678
+CHAN473,Profitpros,589163
+CHAN474,Verbatim Corporation,105390
+CHAN475,Road Runner Lawn Services,566878
+CHAN476,Alaska Air Group,442060
+CHAN477,Diebold,585561
+CHAN478,Bose Corporation,261825
+CHAN479,Belle Lady,442758
+CHAN480,Cognizant Technology Solutions,463942
+CHAN481,Coventry Health Care,451611
+CHAN482,Audiovox,540483
+CHAN483,Afforda,332903
+CHAN484,Ameriprise Financial,642237
+CHAN485,Becton Dickinson,269596
+CHAN486,Science Applications International Corporation,369665
+CHAN487,Stratabiz,290373
+CHAN488,Lucas Oil,641733
+CHAN489,Allegheny Energy,753741
+CHAN490,ConocoPhillips,764806
+CHAN491,Greyvoid,583638
+CHAN492,Master Builder Design Services,491200
+CHAN493,Mozilla Foundation,503201
+CHAN494,Stratagee,719163
+CHAN495,Sunburst Garden Management,235577
+CHAN496,Liberty Wealth Planner,523898
+CHAN497,Better Business Ideas and Services,575561
+CHAN498,Kellogg Company,740377
+CHAN499,Motorola,156876
